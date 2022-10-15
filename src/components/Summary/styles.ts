@@ -35,5 +35,4 @@ export const Container = styled.div`
 
 export const OutcomeDiv = styled.div`
   color: var(--red) !important;
-  text-shadow: 0.2px 0.5px .2px #000;
 `
